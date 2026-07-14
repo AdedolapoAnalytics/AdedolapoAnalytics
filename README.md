@@ -1,16 +1,19 @@
-## Hi there 👋
+Dolapo Oladoja
 
-<!--
-**AdedolapoAnalytics/AdedolapoAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Dolapo 👋
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a background in Microbiology and training in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+• Excel
+• SQL
+• Power BI
+
+📊 Featured Projects
+• Sales Dashboard
+• Movie Data Analysis
+• HR Analytics
+
+📫 Connect with me
+LinkedIn
+Email
